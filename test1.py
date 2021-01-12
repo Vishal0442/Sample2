@@ -26,3 +26,7 @@ def floor_division():
 
 print("sample subtraction function --> ", floor_division())
 
+def power():
+	return "5 ** 2 = {}".format(25)
+
+print("sample subtraction function --> ", power())
