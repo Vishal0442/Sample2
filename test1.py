@@ -21,3 +21,8 @@ def division():
 
 print("sample subtraction function --> ", division())
 
+def floor_division():
+	return "5 // 2 = {}".format(2)
+
+print("sample subtraction function --> ", floor_division())
+
