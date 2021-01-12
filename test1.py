@@ -10,3 +10,6 @@ def gun():
 	return "5 - 2 = {}".format(3)
 
 print("sample subtraction function --> ", gun())
+
+def sun():
+	pass
