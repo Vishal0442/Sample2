@@ -11,6 +11,11 @@ def substraction():
 
 print("sample subtraction function --> ", substraction())
 
+def multiplication():
+	return "5 * 2 = {}".format(10)
+
+print("sample subtraction function --> ", multiplication())
+
 def division():
 	return "5 / 2 = {}".format(2.5)
 
